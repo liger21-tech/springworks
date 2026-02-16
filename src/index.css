@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-form{
+  background-image: url(../public/images/MEMBERSHIP.png);
+}
+.bg-corp{
+  background-image: url(../public/images/COPERATE.png);
+}
+.bg-image{
+  background-image: url(../public/images/FRONTWALL.jpeg);
+
+}
+.bgka{
+  background-image: url(../public/images/01.png);
+}
+.bg-siz{
+  background-size: cover;
+}
+.abt-bg{
+  background-image: url(../public/images/ABOUT\ US.png);
+}
+.bg-size{
+  background-size: cover;
+}
+.bg-repeat{
+  background-repeat: no-repeat;
+}
+
+.perspective {
+  perspective: 1200px;
+}
+
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+.perspective {
+  perspective: 1200px;
+}
+
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Hide scrollbar but keep scroll functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
