@@ -5,7 +5,7 @@ import Walkthrough from "./pages/Walkthrough";
 import Galleries from "./pages/Galleries";
 import Corporate from "./pages/Corporate";
 import Membership from "./pages/Membership";
-import Shop from "./pages/Shop";
+import Shop from "./pages/shop";
 import Aboutus from "./pages/Aboutus";
 import Contactus from "./pages/Contactus";
 import Event from "./pages/Event";
